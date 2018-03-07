@@ -1,0 +1,20 @@
+1. What is the purpose of a breakpoint?
+
+To pause the application at the position of the breakpoint and launch the debugger console.
+
+
+2. Does the line of code on a breakpoint run when you start debugging?
+
+Yes.
+
+3. How do we debug the next line of code?
+
+By using the step over command.
+
+4. What does the step into command do?
+
+The step into command causes the debugger to descend into any method calls on the current line.
+
+5. What is the difference between evaluate expression and evaluate code fragment?
+
+Evaluate expression evaluates a single line of code, evaluate code evaluates multiple lines of code.
