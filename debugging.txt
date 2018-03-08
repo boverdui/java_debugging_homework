@@ -5,7 +5,7 @@ To pause the application at the position of the breakpoint and launch the debugg
 
 2. Does the line of code on a breakpoint run when you start debugging?
 
-Yes.
+No.
 
 3. How do we debug the next line of code?
 
