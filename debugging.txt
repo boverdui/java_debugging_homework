@@ -2,7 +2,6 @@
 
 To pause the application at the position of the breakpoint and launch the debugger console.
 
-
 2. Does the line of code on a breakpoint run when you start debugging?
 
 No.
